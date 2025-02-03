@@ -2,7 +2,7 @@
 
 ## Overview
 This is a basic finance tracker web app which is used to track the income, expenses and your balance
-
+This app uses SQL and Python for data
 ## Features
 --- For Emmanuel
 Outcome
